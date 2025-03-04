@@ -1,0 +1,16 @@
+<svg width="200" height="150" viewBox="0 0 200 150" xmlns="http://www.w3.org/2000/svg">
+    
+    <!-- Left Triangle -->
+    <path d="M50,120 L100,30 L30,120 Z" fill="#1E90FF" opacity="0.9"/>
+    
+    <!-- Right Triangle -->
+    <path d="M150,120 L100,30 L170,120 Z" fill="#FF4500" opacity="0.9"/>
+    
+    <!-- Middle Overlay -->
+    <path d="M75,120 L100,60 L125,120 Z" fill="#FF66FF" opacity="0.8"/>
+
+    <!-- Text -->
+    <text x="50" y="140" font-family="Arial" font-size="24" font-weight="bold" fill="#FFFFFF">
+        Cloud Hub
+    </text>
+</svg>
