@@ -380,3 +380,8 @@ a {
     font-size: 1.7rem;
   }
 }
+
+/* Media */
+.media {
+  display: flex;
+}
